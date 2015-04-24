@@ -11,6 +11,9 @@ public class Repaso {
        System.out.println("erick");
        for(int i=0;i<5;i++){
             System.out.println("PAME ♥");
+             }
+            for(int i=0;i<5;i++){
+            System.out.println(":)");
         }
     }
     
